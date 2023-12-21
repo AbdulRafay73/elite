@@ -1,0 +1,18 @@
+.navbar-nav {
+    text-align: center;
+  }
+  .navbar .navbar-nav .nav-link {
+    padding-right: 1em;
+    color: black;
+    font-size: 1.1em;
+  }
+
+  .navbar-nav{
+    color: black;
+  
+  }
+
+  .buttonss{
+    border-radius: 69px;
+
+  }
